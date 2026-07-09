@@ -536,5 +536,3 @@ References (~30-40)
 25. Tan & Le (2019) — EfficientNet (ICML) — for baseline comparison
 
 ---
-
-**Good luck with your paper! This architecture is genuinely novel and the results are strong. You have a very good chance at MICCAI or IEEE TMI.**
